@@ -1,0 +1,43 @@
+/* Estilos para las tablas */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #05b6ca;
+}
+
+/* Estilo para el formulario */
+#redirectForm {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#redirectForm textarea {
+    width: calc(100% - 160px); /* Restar el ancho del botón */
+    margin-bottom: 10px;
+    padding: 8px;
+    resize: vertical;
+}
+
+#redirectForm button {
+    width: 150px;
+    padding: 8px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+}
+
+#redirectForm button:hover {
+    background-color: #0056b3;
+}
