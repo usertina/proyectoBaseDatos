@@ -1,3 +1,5 @@
+Para iniciar el proyecto escribir en terminal: npm start server
+
 # Proyecto Formativo Bases de Datos - Bootcamp Peñascal F5
 
 # Contenido:
